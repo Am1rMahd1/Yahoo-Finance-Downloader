@@ -115,5 +115,108 @@
     "ticker": "INGA.AS",
     "start_date": "2019-01-01",
     "end_date": "2024-01-01"
+  },
+
+  {
+    "ticker": "SHELL.AS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "PRX.AS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "LR.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "EN.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "RAND.AS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "ASM.AS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "BNP.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "MC.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "TTE.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "JMT.LS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+
+  {
+    "ticker": "SAN.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "EDP.LS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "PHIA.AS",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "ALO.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "GBLB.BR",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "TEP.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "KER.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "ABI.BR",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "VIE.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
+  },
+  {
+    "ticker": "ERF.PA",
+    "start_date": "2019-01-01",
+    "end_date": "2024-01-01"
   }
+
 ]

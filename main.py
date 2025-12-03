@@ -81,7 +81,11 @@ def fetch_and_save_data(ticker_request: dict, output_dir: Path):
 
         # 2. Fetch historical data
         # yfinance automatically handles date formatting
-        history_df = ticker_obj.history(start=start, end=end)
+        history_df = ticker_obj.history(
+            start=start,
+            end=end,
+            auto_adjust=False
+        )
 
         # 3. Check if data was returned
         if history_df.empty:
